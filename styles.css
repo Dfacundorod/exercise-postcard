@@ -1,6 +1,3 @@
-body * {
-	border: 2px dashed red;
-}
 .postcard {
 	background: white;
 	width: 400px;
@@ -38,6 +35,6 @@ p {
 	text-align: center;
 }
 button {
-	background-color: rgb(87, 83, 83);
+	background-color: rgb(128, 128, 128);
 	padding: auto;
 }
